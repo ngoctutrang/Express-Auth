@@ -1,0 +1,27 @@
+https://www.youtube.com/watch?v=2jqok-WgelI
+JWT: https://www.youtube.com/watch?v=zpnOdBXrU7g
+
+1. npm init -y
+2. npm i express
+3. npm i nodemon
+	 "start": "nodemon index.js", ==> npm start
+	 
+4. https://cloud.mongodb.com/
+	tdngoctu@hotmail.com/Dongoctu
+	dev1/Dongoctu
+	
+5. npm i dotenv --save
+	crete file .env
+	
+	index.js------------
+	const dotenv = require('dotenv')
+	dotenv.config()
+	
+6. npm i @hapi/joi  //Use for validate
+	https://www.npmjs.com/package/@hapi/joi
+	
+7. npm i bcryptjs  //Hash password
+	https://www.npmjs.com/package/bcryptjs
+	
+8. npm i jsonwebtoken
+	https://github.com/auth0/node-jsonwebtoken
